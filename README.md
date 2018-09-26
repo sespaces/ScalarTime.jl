@@ -1,4 +1,7 @@
-# ScalarTime
+# ScalarTime (WIP)
+
+### WORK IN PROGRESS
+
 
 [![Build Status](https://travis-ci.org/sespaces/ScalarTime.jl.svg?branch=master)](https://travis-ci.org/sespaces/ScalarTime.jl)
 

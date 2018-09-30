@@ -2,12 +2,14 @@ module ScalarTime
 
 import Dates
 
-using ExpressionSets
+include("ExpressionSets.jl")
+using .ExpressionSets
 
 
-export supdog, dog
+# import ExpressionSets: morse_code
+export morse_code
 
-export ExpressionSet
+export supdog
 
 #export binary, senary, decimal, alphanumeric, modgin_int, modgin_fract
 
